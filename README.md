@@ -1,6 +1,6 @@
 # 0x00. Fix my code
 
-**Technology:** Debugging
+**Technology:** `Debugging`
 **Author:** Guillaume
 **Weight:** 1
 **Project Schedule:** Oct 16, 2023, 6:00 AM - Oct 30, 2023, 6:00 AM
